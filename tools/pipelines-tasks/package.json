@@ -15,8 +15,8 @@
   },
   "homepage": "https://github.com/microsoft/msix-ado-tasks-extension#readme",
   "dependencies": {
-    "azure-devops-node-api": "^10.2.2",
-    "azure-pipelines-task-lib": "^2.12.2",
+    "azure-devops-node-api": "^14.0.1",
+    "azure-pipelines-task-lib": "^4.16.0",
     "shelljs": "^0.8.5"
   },
   "devDependencies": {
